@@ -1130,7 +1130,7 @@ a.buy:hover {
 }
 
 #footer-menu-logo img {
-	margin-top: 10px;
+	/*margin-top: 10px;*/
 }
 
 #footer-menu-links {
@@ -1628,4 +1628,5 @@ body {
 		width:100%;
 	}
 }	
-	
+	
+
